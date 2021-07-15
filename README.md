@@ -1,8 +1,18 @@
 ### Olá, Sou Lucas Amorim 👋
 
-<div style="background-color:#007FFF, color:white, width:200px, height:200px">
+<div>
   Atualmente trabalhando na</br>
-  Fatorial Investimentos
+  <strong>Fatorial Investimentos</strong>
+</div>
+</br>
+<div>
+  Atualmente aprendendo sobre</br>
+  <strong>spring boot e angular</strong>
+</div>
+</br>
+<div>
+  Meu linkedin</br>
+  https://www.linkedin.com/in/amorim-22-lucas/
 </div>
 
 <!--
