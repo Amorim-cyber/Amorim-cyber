@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá, Sou Lucas Amorim 👋
+
+<div style="background-color:#007FFF, color:white, width:200px, height:200px">
+  Atualmente trabalhando na</br>
+  Fatorial Investimentos
+</div>
 
 <!--
 **Amorim-cyber/Amorim-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
