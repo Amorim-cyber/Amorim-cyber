@@ -2,12 +2,12 @@
 
 <div>
   Atualmente trabalhando na</br>
-  <h2>Fatorial Investimentos</h2>
+  <h4>Fatorial Investimentos</h4>
 </div>
 </br>
 <div>
   Atualmente aprendendo sobre</br>
-  <h2>spring boot e angular</h2>
+  <h4>spring boot e angular</h4>
 </div>
 </br>
 <div>
