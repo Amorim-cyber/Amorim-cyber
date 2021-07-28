@@ -1,13 +1,13 @@
-### Olá, Sou Lucas Amorim 👋
+# Olá, Sou Lucas Amorim 👋
 
 <div>
   Atualmente trabalhando na</br>
-  <strong>Fatorial Investimentos</strong>
+  <h2>Fatorial Investimentos</h2>
 </div>
 </br>
 <div>
   Atualmente aprendendo sobre</br>
-  <strong>spring boot e angular</strong>
+  <h2>spring boot e angular</h2>
 </div>
 </br>
 <div>
