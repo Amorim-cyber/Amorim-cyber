@@ -1,12 +1,12 @@
 # Olá, Sou Lucas Amorim 👋
 
 <div>
-  Atualmente trabalhando na</br>
+  Trabalhando na</br>
   <h4>Fatorial Investimentos</h4>
 </div>
 </br>
 <div>
-  Atualmente aprendendo sobre</br>
+  Aprendendo sobre</br>
   <h4>spring boot e angular</h4>
 </div>
 </br>
