@@ -1,18 +1,9 @@
 # Olá, Sou Lucas Amorim 👋
 
-<div>
-  Trabalhando atualmente na</br>
-  <h4>Fatorial Investimentos</h4>
-</div>
-</br>
-<div>
-  Aprendendo mais sobre</br>
-  <h4>spring boot e angular</h4>
-</div>
-</br>
-<div>
-  Meu linkedin</br>
-  https://www.linkedin.com/in/amorim-22-lucas/
+<div style="display: flex; flex-direction: row; justify-content: space-evenly;">
+  <a href="https://www.fatorialinvest.com.br/" target="_blank"> <img  src="assets/logo.png" style="width: 100px; height: 100 px; "></img></a>
+  <a href="https://www.linkedin.com/in/amorim-22-lucas/" target="_blank"><img src="assets/linkedin.png" style="width: 100px; height: 100 px; "></img></a>
+  
 </div>
 
 <h3>Projetos Desenvolvidos</h3>
