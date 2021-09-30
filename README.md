@@ -19,6 +19,9 @@
   <li><b>Health Track Modelo Java:</b> <br><br>Busquei me desafiar replicando as funcionalidades do HealthTrack utilizando a linguagem java</li><br>
   <img src="assets/healthtrack.gif" style="border: solid grey; border-radius:4px"></img><br><br>
   <span><a href="https://github.com/Amorim-cyber/HealthTrackJava" target="_blank">Clique aqui</a> para conhecer mais 😄</span><br><br>
+  <li><b>Health Track Metodo getAll():</b> <br><br>Testando o método getAll() que retorna informações sobre atividades físicas</li><br>
+  <img src="assets/getAll.gif" style="border: solid grey; border-radius:4px"></img><br><br>
+  <span>Confira <a href="https://github.com/Amorim-cyber/HealthTrackGetAll" target="_blank">aqui</a> o projeto 😉</span><br><br>
   
 </ul>
 
