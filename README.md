@@ -3,6 +3,7 @@
 <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
   <a href="https://www.fatorialinvest.com.br/" target="_blank"> <img  src="assets/logo.png" style="width: 100px; height: 100 px; "></img></a>
   <a href="https://www.linkedin.com/in/amorim-22-lucas/" target="_blank"><img src="assets/linkedin.png" style="width: 100px; height: 100 px; "></img></a>
+  <a href="https://api.whatsapp.com/send?phone=5521988611540" target="_blank"><img src="assets/whatsapp-icon.png" style="width: 100px; height: 100 px; "></img></a>
   
 </div>
 
