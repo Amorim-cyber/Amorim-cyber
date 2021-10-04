@@ -9,7 +9,8 @@
 <div>
   <a href ="https://beacons.ai/Amorim-cyber">
   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Amorim-cyber&show_icons=True&theme=gruvbox"/>   
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorim-cyber&theme=gruvbox"/>    
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorim-cyber&theme=gruvbox"/>  
+  </a>
 </div>
 
 <h3>Projetos Desenvolvidos</h3>
