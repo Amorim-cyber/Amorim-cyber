@@ -36,7 +36,7 @@
 <span>Projeto que simula registro e monitoramento de ofertas publicas de uma instituição financeira fictícia. Utilizei java spring boot / angular / banco de dados relacional cloud Heroku</span>
 <br><br>
 <img src="assets/smash.gif" style="border: solid grey; border-radius:4px"></img><br>
-<span><a href="https://github.com/Amorim-cyber/Frontend-PublicOffer-testmode" target="_blank">Visualize aqui</a> a página 📄</span><br>
+<span><a href="https://amorim-cyber.github.io/Frontend-PublicOffer-testmode/main" target="_blank">Visualize aqui</a> a página 📄</span><br>
 <span><a href="https://github.com/Amorim-cyber/Frontend-PublicOffer-testmode" target="_blank">Visualize aqui</a> o projeto ⚡</span><br><br>
 
 
