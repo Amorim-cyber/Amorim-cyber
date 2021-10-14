@@ -37,10 +37,19 @@
 <br><br>
 <img src="assets/smash.gif" style="border: solid grey; border-radius:4px"></img><br>
 <span><a href="https://amorim-cyber.github.io/Frontend-PublicOffer-testmode/main" target="_blank">Visualize aqui</a> a página 📄</span><br>
-<span><a href="https://github.com/Amorim-cyber/Frontend-PublicOffer-testmode" target="_blank">Visualize aqui</a> o projeto ⚡</span><br><br>
+<span><a href="https://github.com/Amorim-cyber/Frontend-PublicOffer-testmode" target="_blank">Visualize aqui</a> o projeto ⚡</span><br>
+<span><b>OBS: </b> A página pode demorar um pouco a carregar</span><br><br>
 
-
-
+<h4>TILE PAGES</h4>
+<span>Projetos desenvolvidos com o intuito de simular um site de vendas de pisos hidráulicos</span>
+<br><br>
+<ul>
+  <li><b>Tile Landing Page:</b> <br><br>Elaborei uma Landing page promocional utilizando o Angular (página meramente estética)</li><br>
+  <img src="assets/page.PNG" style="border: solid grey; border-radius:4px"></img><br><br>
+  <span>Para acessar a página <a href="https://amorim-cyber.github.io/TileLandingPage/PROMO%C3%87%C3%83O" target="_blank">clique aqui</a> 📄</span><br>
+  <span>Para maiores informações sobre o repositório <a href="https://github.com/Amorim-cyber/TileLandingPage" target="_blank">clique aqui</a> ⚡</span><br><br>
+  
+</ul>
 <!--
 **Amorim-cyber/Amorim-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
