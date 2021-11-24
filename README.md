@@ -23,6 +23,9 @@
   <li><b>Health Track Modelo FrontEnd simples:</b> <br><br>Elaborei uma estrutura visual inicial da aplicação utilizando HTML e CSS com bootstrap</li><br>
   <img src="assets/health.gif" style="border: solid grey; border-radius:4px"></img><br><br>
   <span>Para maiores informações sobre o repositório <a href="https://github.com/Amorim-cyber/HealthTrack" target="_blank">clique aqui</a> 😄</span><br><br>
+  <li><b>Health Track Angular:</b> <br><br>Adaptei o Health Track Modelo FrontEnd simples para o framework Angular</li><br>
+  <span><a href="https://amorim-cyber.github.io/HealthTrackAngular/" target="_blank">Visualize aqui</a> a página 📄</span><br>
+  <span><a href="https://github.com/Amorim-cyber/HealthTrackAngular" target="_blank">Visualize aqui</a> o projeto ⚡</span><br>
   <li><b>Health Track Modelo Java:</b> <br><br>Busquei me desafiar replicando as funcionalidades do HealthTrack utilizando a linguagem java</li><br>
   <img src="assets/healthtrack.gif" style="border: solid grey; border-radius:4px"></img><br><br>
   <span><a href="https://github.com/Amorim-cyber/HealthTrackJava" target="_blank">Clique aqui</a> para conhecer mais 😄</span><br><br>
