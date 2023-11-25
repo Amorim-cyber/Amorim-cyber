@@ -3,6 +3,13 @@
 Atualmente trabalhando em projetos de engenharia de dados.
 
 
+<div>
+  <a href ="https://beacons.ai/Amorim-cyber">
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Amorim-cyber&show_icons=True&theme=gruvbox"/>
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorim-cyber&layout=compact&langs_count=7&theme=gruvbox"/>
+  </a>
+</div>
+
 <!--
 **Amorim-cyber/Amorim-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
